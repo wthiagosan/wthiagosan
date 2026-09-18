@@ -11,14 +11,14 @@
   </p>
 
   <p align="center">
+    <a href="https://www.linkedin.com/in/welinton-thiago/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-welinton--thiago-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
     <a href="mailto:W.thiagosan@gmail.com">
       <img src="https://img.shields.io/badge/Email-W.thiagosan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
     </a>
-    <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </a>
     <a href="https://github.com/wthiagosan">
-      <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+      <img src="https://img.shields.io/badge/GitHub-wthiagosan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
     </a>
   </p>
 
@@ -97,13 +97,26 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wthiagosan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=wthiagosan&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="175" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wthiagosan&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wthiagosan&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="175" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com?user=wthiagosan&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" height="175" />
 </div>
 
 ---
 
+### 📬 Vamos Conversar?
+
 <div align="center">
-  <sub>Desenvolvido com foco e determinação por <strong>Welinton Thiago</strong> • 2026</sub>
+  <p>Estou sempre aberto a conexões profissionais, novos projetos e oportunidades em Engenharia de Software.</p>
+  <a href="https://www.linkedin.com/in/welinton-thiago/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:W.thiagosan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Enviar_Mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar Email" />
+  </a>
+  <br /><br />
+  <sub>Desenvolvido com dedicação por <strong>Welinton Thiago</strong> • 2026</sub>
 </div>
