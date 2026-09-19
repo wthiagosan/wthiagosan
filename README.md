@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   # Olá! Eu sou o Welinton Thiago 👋
   
@@ -28,10 +28,12 @@
 
 ### 👨‍💻 Sobre Mim
 
+- 🎓 **Formação:** Bacharel em Ciência da Computação pelo **Centro Universitário Adventista de São Paulo (UNASP)**.
 - 🔭 **Atuação:** Desenvolvimento de microsserviços, APIs RESTful robustas e modelagem de bancos de dados relacionais e NoSQL.
-- ⚙️ **Foco de Engenharia:** Consistência transacional (ACID), concorrência, segurança com JWT e RBAC, e arquitetura limpa (Clean Architecture / DDD).
-- ☁️ **Cloud & DevOps:** Automação com Docker, provisionamento em nuvem AWS (EC2/Lightsail, VPC, Security Groups) e pipelines de integração contínua.
-- 🎯 **Objetivo:** Projetar sistemas distribuídos escaláveis que resolvem problemas reais de negócio com excelência técnica e manutenibilidade.
+- ⚙️ **Foco de Engenharia:** Consistência transacional (ACID), concorrência (Pessimistic Locking), segurança defensiva (JWT / RBAC) e Clean Architecture.
+- ☁️ **Cloud & DevOps:** Automação com Docker, provisionamento em nuvem AWS (EC2/Lightsail, VPC, Security Groups) e pipelines de integração contínua (CI/CD).
+- 🛡️ **Background Corporativo:** Sólida bagagem prévia em infraestrutura corporativa, automação de scripts (Linux Bash e PowerShell) e cibersegurança.
+
 
 ---
 
